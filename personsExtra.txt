@@ -1,0 +1,6 @@
+1;Rismus;26;45
+2;Mike;34;2
+3;Chris;23;9000
+4;Frede;24;50
+5;Loke;22;2500
+6;Andreas;24;20
